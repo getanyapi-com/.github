@@ -4,6 +4,8 @@
 
 AnyAPI is a unified marketplace for scraping and data APIs: search results, maps, social platforms, marketplaces, contact data, and clean text from pages that block bots. You pay per request in USD, every API answers with the same normalized response shape, and when a source fails the request fails over to another one automatically.
 
+The data comes from the same providers you could buy from directly: established providers such as Apify and ScrapeCreators under volume contracts, with the lower price passed through, plus smaller specialist sources that automatic failover makes safe to use. See [providers](https://getanyapi.com/providers) for every source and its traffic.
+
 ## Start here
 
 - [getanyapi.com](https://getanyapi.com) - what it is and what it covers
